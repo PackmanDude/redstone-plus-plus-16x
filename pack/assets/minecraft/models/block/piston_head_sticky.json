@@ -2,7 +2,7 @@
     "__comment": "Modifications by Quazi",
     "parent": "block/piston_head",
     "textures": {
-        "platform": "blocks/piston_top_sticky",
-        "side": "blocks/piston_side_sticky"
+        "platform": "block/piston_top_sticky",
+        "side": "block/piston_side_sticky"
     }
 }

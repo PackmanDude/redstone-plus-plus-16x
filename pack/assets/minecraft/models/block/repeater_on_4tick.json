@@ -2,10 +2,10 @@
     "__comment": "Modifications by Quazi",
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/repeater_on",
-        "slab": "blocks/stone_slab_top",
-        "top": "blocks/repeater_on_4tick",
-        "lit": "blocks/redstone_torch_on"
+        "particle": "block/repeater_on",
+        "slab": "block/stone_slab_top",
+        "top": "block/repeater_on_4tick",
+        "lit": "block/redstone_torch"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],

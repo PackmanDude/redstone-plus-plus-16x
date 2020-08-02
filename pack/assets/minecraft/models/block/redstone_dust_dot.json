@@ -2,8 +2,8 @@
     "__comment": "Modifications by Quazi",
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/redstone_dust_dot",
-        "line": "blocks/redstone_dust_dot"
+        "particle": "block/redstone_dust_dot",
+        "line": "block/redstone_dust_dot"
     },
     "elements": [
         {   "from": [ 0, 0.26, 0 ],

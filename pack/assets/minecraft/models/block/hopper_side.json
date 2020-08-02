@@ -2,15 +2,15 @@
     "__comment": "Modifications by Quazi",
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/hopper",
-        "top": "blocks/hopper_top",
-        "bottom": "blocks/hopper_bottom",
-        "left": "blocks/hopper_side_left",
-        "right": "blocks/hopper_side_right",
-        "front": "blocks/hopper_side_front",
-        "back": "blocks/hopper_side_back",
-        "inside": "blocks/hopper_side_inside",
-        "wall": "blocks/hopper_inside_wall"
+        "particle": "block/hopper",
+        "top": "block/hopper_top",
+        "bottom": "block/hopper_bottom",
+        "left": "block/hopper_side_left",
+        "right": "block/hopper_side_right",
+        "front": "block/hopper_side_front",
+        "back": "block/hopper_side_back",
+        "inside": "block/hopper_side_inside",
+        "wall": "block/hopper_inside_wall"
     },
     "elements": [
         {   "from": [ 0, 9, 0 ],

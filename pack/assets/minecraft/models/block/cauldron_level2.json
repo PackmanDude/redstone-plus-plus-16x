@@ -2,13 +2,13 @@
     "__comment": "Modifications by Quazi",
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/cauldron_side",
-        "top": "blocks/cauldron_top",
-        "bottom": "blocks/cauldron_bottom",
-        "side": "blocks/cauldron_side_2",
-        "inside": "blocks/cauldron_inner",
-        "wall": "blocks/cauldron_inner_side",
-        "water": "blocks/water_still"
+        "particle": "block/cauldron_side",
+        "top": "block/cauldron_top",
+        "bottom": "block/cauldron_bottom",
+        "side": "block/cauldron_side_2",
+        "inside": "block/cauldron_inner",
+        "wall": "block/cauldron_inner_side",
+        "water": "block/water_still"
     },
     "elements": [
         {   "from": [ 2, 3, 2 ],
@@ -157,7 +157,7 @@
         {   "from": [ 2, 12, 2 ],
             "to": [ 14, 12, 14 ],
             "faces": {
-                "up": { "texture": "#water" }
+                "up": { "texture": "#water", "tintindex": 0 }
             }
         }
     ]

@@ -2,8 +2,8 @@
     "__comment": "Modifications by Quazi",
     "textures": {
         "particle": "#platform",
-        "unsticky": "blocks/piston_top",
-        "rod": "blocks/piston_side"
+        "unsticky": "block/piston_top",
+        "rod": "block/piston_side"
 },
     "elements": [
         {   "from": [ 0, 0, 0 ],

@@ -2,10 +2,10 @@
     "__comment": "Modifications by Quazi",
     "parent": "block/block",
     "textures": {
-        "particle": "blocks/observer_back",
-        "front": "blocks/observer_front",
-        "back": "blocks/observer_back",
-        "side": "blocks/observer_side"
+        "particle": "block/observer_back",
+        "front": "block/observer_front",
+        "back": "block/observer_back",
+        "side": "block/observer_side"
     },
     "elements": [
         {

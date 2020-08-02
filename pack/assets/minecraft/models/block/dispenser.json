@@ -2,10 +2,10 @@
     "__comment": "Modifications by Quazi",
     "parent": "block/block",
     "textures": {
-        "particle": "blocks/dispenser_front_horizontal",
-        "front": "blocks/dispenser_front_horizontal",
-        "back": "blocks/dispenser_back",
-        "side": "blocks/dispenser_side"
+        "particle": "block/dispenser_front_horizontal",
+        "front": "block/dispenser_front_horizontal",
+        "back": "block/dispenser_back",
+        "side": "block/dispenser_side"
     },
     "elements": [
         {

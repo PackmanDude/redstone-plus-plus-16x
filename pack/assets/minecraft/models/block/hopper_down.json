@@ -2,12 +2,12 @@
     "__comment": "Modifications by Quazi",
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/hopper",
-        "top": "blocks/hopper_top",
-        "bottom": "blocks/hopper_bottom",
-        "side": "blocks/hopper",
-        "inside": "blocks/hopper_inside",
-        "wall": "blocks/hopper_inside_wall"
+        "particle": "block/hopper",
+        "top": "block/hopper_top",
+        "bottom": "block/hopper_bottom",
+        "side": "block/hopper",
+        "inside": "block/hopper_inside",
+        "wall": "block/hopper_inside_wall"
     },
     "elements": [
         {   "from": [ 0, 9, 0 ],
